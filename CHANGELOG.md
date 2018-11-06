@@ -98,4 +98,3 @@ major versions.
 - XSS vulnerability in email display
 - Various fixes in Documentation
 - vhost-gen fixes
-
